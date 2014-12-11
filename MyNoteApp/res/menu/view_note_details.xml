@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mynoteapp.ViewNoteDetails" >
+
+	<item
+	    android:id="@+id/note_details_edit"
+	    android:icon="@drawable/ic_action_edit"
+	    android:showAsAction="always|withText"
+	    android:title="@string/title_activity_edit_note">
+	</item>
+	
+</menu>

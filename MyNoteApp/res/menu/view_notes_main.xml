@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mynoteapp.ViewNotesActivity" >
+	
+    <item
+        android:id="@+id/add_new_note"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/add_note_text"/>
+    
+    <item
+	    android:id="@+id/note_action_logout"
+	    android:orderInCategory="100"
+        android:showAsAction="never"
+	    android:title="@string/logout_label">
+	</item>
+    
+    <item
+	    android:id="@+id/action_refresh"
+	    android:icon="@drawable/ic_action_refresh"
+	    android:showAsAction="always|withText"
+	    android:title="@string/action_refresh">
+	</item>
+	 
+</menu>
