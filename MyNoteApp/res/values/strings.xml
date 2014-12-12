@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyNote</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Delete Note</string>
+    <string name="action_new">New Note</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_edit_note">Edit Note</string>
+    <string name="note_title_hint">Title</string>
+    <string name="note_content_hint">Content</string>
+    <string name="save_button">Save</string>
+    <string name="edit_error_title">Error!</string>
+    <string name="edit_error_message">You cannot save a note without a title</string>
+    <string name="categoryPrompt">Choose</string>
+    <string name="assignedUserPrompt">Choose</string>
+    <string name="promptMessageText">"Enter new name for group: "</string>
+    <string name="title_activity_create_group">Create Group</string>
+    <string name="group_name_hint">New Group Name</string>
+    <string name="user_name_hint">User Email</string>
+    <string name="title_activity_view_groups">Groups</string>
+    <string name="add_group_text">Create Group</string>
+    <string name="title_activity_view_notes">Notes</string>
+    <string name="edit_group_hint">Update Group Name</string>
+    <string name="group_member_hint">Add new Member</string>
+    <string name="exit_group_hint">Exit Group</string>
+    <string name="add_note_text">Create Note</string>
+    <string name="title_activity_add_note">Add Note</string>
+    <string name="create_button">Create</string>
+    <string name="update_button">Update</string>
+    <string name="checkBoxButton">Mark as Complete</string>
+    <string name="usernameLabel">Username</string>
+    <string name="emailLabel">E-Mail</string>
+    <string name="passwordLabel">Password</string>
+    <string name="loginButtonLabel">Login</string>
+    <string name="registerLabel">Click here to register</string>
+    <string name="fullName">Full Name</string>
+    <string name="registerButtonLabel">Register</string>
+    <string name="registerScreenLoginLabel">Already have an account?</string>
+    <string name="logoContentDesc">MyNote Logo</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="repassword_hint">Retype Password</string>
+    <string name="email_hint">Email</string>
+    <string name="sign_up_button_label">Sign Up</string>
+    <string name="signup_error_message">Please make sure you enter all the fields above!</string>
+    <string name="signup_error_title">Error!</string>
+    <string name="login_error_message">Please make sure you enter a username and password!</string>
+    <string name="login_error_title">Error!</string>
+    <string name="login_button_label">Login</string>
+    <string name="sign_up_text">Sign Up!</string>
+    <string name="logout_label">Logout</string>
+    <string name="login_label">Login</string>
+    <string name="title_activity_view_note_details">Note Details</string>
+
+</resources>
